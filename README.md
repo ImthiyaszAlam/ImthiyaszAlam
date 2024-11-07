@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Imthiyas Alam</h1>
 
-**👨‍💻 Android Dev by day, bug wrangler by night.**
+**👨‍💻 Android Developer by day, bug wrangler by night.**
 
 **Let’s debug the world together! 🚀.**
 
