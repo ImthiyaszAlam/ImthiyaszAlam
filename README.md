@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
+- 👨‍💻  All of my projects are available at [portfolio.com](portfolio.com)
   --->
   
 <h3 align="left">Connect with me:</h3>
