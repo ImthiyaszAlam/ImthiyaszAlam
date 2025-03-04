@@ -1,3 +1,30 @@
+
+
+
+### **🔹 About Me – Android Developer Who Loves to Solve & Build**  
+---
+
+- **I don’t just write Android apps—I solve Android problems.**  
+  - I enjoy **figuring out why things break and making them better**. Whether it's fixing UI inconsistencies, debugging API failures, or optimizing app performance, I take a **solution-first** approach.  
+  - Experience with **Jetpack components, API integrations, and third-party libraries**—but more importantly, I know **how to find answers and implement them fast**.  
+
+- **I Learn Fast & Adapt Even Faster.**  
+  - If I come across a concept I haven’t worked on before, I **don’t stop**—I **deconstruct it, analyze its core mechanics, and engineer a working solution**.  
+  - Whether it’s **debugging a tricky issue, working with new frameworks, or improving app efficiency**, I focus on **understanding the problem deeply** rather than just following tutorials.  
+
+- **Why You Should Consider Me**  
+  - I **write code that makes sense**, not just code that works. Clean, maintainable, and scalable.  
+  - I take **ownership**—I don’t wait for problems to be assigned; I **identify them and fix them**.  
+  - Looking for a team where I can **build, learn, and push the boundaries of what’s possible in Android development**.  
+
+---
+  - If your team needs an **Android expert** who **pushes boundaries and innovates**, let’s talk. 🚀  
+
+
+---
+*"Making Android do things it wasn’t meant to."* 🔥  
+
+
 <!-- 
 <h1 >Hi 👋, I'm Imthiyas Alam</h1>
 
@@ -10,6 +37,12 @@
 
 
 - 👨‍💻  All of my projects are available at [portfolio.com](portfolio.com)
+
+
+
+🔧 **Tech Stack:** Java | Kotlin | AOSP | Custom ROMs | Launcher3 | Hidden APIs  
+📂 **Projects:** [GitHub Repositories](https://github.com/yourusername)  
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
   --->
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imthiyaszalam&" alt="imthiyaszalam" /></p>
