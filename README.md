@@ -1,6 +1,5 @@
 
 
-
 ### **🔹 About Me – Android Developer Who Loves to Solve & Build**  
 ---
 
@@ -41,7 +40,13 @@
 🔧 **Tech Stack:** Java | Kotlin | AOSP | Custom ROMs | Launcher3 | Hidden APIs  
 📂 **Projects:** [GitHub Repositories](https://github.com/yourusername)  
 📫 **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+
   --->
+
+  
+ 
+ ![](https://komarev.com/ghpvc/?username=ImthiyaszAlam)
+
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imthiyaszalam&" alt="imthiyaszalam" /></p>
 
