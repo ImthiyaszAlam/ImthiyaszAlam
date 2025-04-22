@@ -15,7 +15,7 @@
   - I **write code that makes sense**, not just code that works. Clean, maintainable, and scalable.  
   - I take **ownership**—I don’t wait for problems to be assigned; I **identify them and fix them**.  
   - Looking for a team where I can **build, learn, and push the boundaries of what’s possible in Android development**.
-  - If your team needs an **Android expert** who **pushes boundaries and innovates**, let’s talk. 🚀  
+  - If your team needs an **Android expert** who **pushes boundaries and innovates**, let’s talk. 
 ---
 
 
