@@ -4,7 +4,8 @@
 ---
 
  **I don’t just write Android apps—I solve Android problems.**  
-  - I enjoy **figuring out why things break and making them better**. Whether it's fixing UI inconsistencies, debugging API failures, or optimizing app performance, I take a **solution-first** approach.  
+  - I enjoy **figuring out why things break and making them better**. Whether it's fixing UI inconsistencies, debugging API failures, or optimizing app performance, I take a **solution-first** approach.
+  - Experienced in collaborating with cross-functional teams to troubleshoot API failures and ensure smooth data flow in production apps.
 
 ---
 ## 🔹 Current Tech Stack
