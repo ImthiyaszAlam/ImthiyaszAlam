@@ -1,6 +1,6 @@
 
 
-### **🔹 About Me – Android Developer Who Loves to Solve & Build**  
+### **🔹 About Me – Android Software Engineer Who Loves to Solve & Build**  
 ---
 
  **I don’t just write Android apps—I solve Android problems.**  
