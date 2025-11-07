@@ -68,5 +68,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imthiyaszalam&show_icons=true&locale=en" alt="imthiyaszalam" /></p>
   --->
 
-*"Making Android do things it wasn’t meant to."* 🔥  
-
