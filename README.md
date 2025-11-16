@@ -1,5 +1,3 @@
-
-
 ### **🔹 About Me – Android Software Engineer Who Loves to Solve & Build**  
 ---
 
