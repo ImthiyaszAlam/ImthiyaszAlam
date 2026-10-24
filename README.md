@@ -32,11 +32,5 @@
 
 ---
 
-### 🔹 I Learn Fast & Adapt Even Faster
-
-- I break down unfamiliar concepts, understand their underlying mechanics, and apply them to real engineering problems.
-- I focus on understanding root causes and building reliable solutions rather than relying on quick fixes or blindly following tutorials.
-
-
 **Let's build something meaningful.** 🤝
 
