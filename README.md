@@ -8,7 +8,7 @@
 - Experienced in collaborating with cross-functional teams to troubleshoot issues and ensure reliable data flow in production applications.
 - I take ownership of features from implementation and integration to production releases and Google Play Store deployment.
 
-### 🚀 Production Applications
+### Production Applications
 
 - **[Prune Consumer App – Google Play Store](https://play.google.com/store/apps/details?id=com.prune&hl=en&gl=US)** — Consumer services, telecom, payments, insurance, and commerce.
 - **[TRUN Delivery Partner – Google Play Store](https://play.google.com/store/apps/details?id=com.prune.prunedelieveryapplication&hl=en_IN)** — Delivery operations, rider onboarding, real-time tracking, and EV rentals.
