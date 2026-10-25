@@ -12,6 +12,7 @@
 
 - **[Prune Consumer App – Google Play Store](https://play.google.com/store/apps/details?id=com.prune&hl=en&gl=US)** — Consumer services, telecom, payments, insurance, and commerce.
 - **[TRUN Delivery Partner – Google Play Store](https://play.google.com/store/apps/details?id=com.prune.prunedelieveryapplication&hl=en_IN)** — Delivery operations, rider onboarding, real-time tracking, and EV rentals.
+- **[Trun Mitra - Team & Partner – Google Play Store](https://play.google.com/store/apps/details?id=com.trun.mitra&hl=en_IN)** — Influencer, Field Representative & Riders services.
 
 ---
 
