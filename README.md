@@ -8,10 +8,6 @@
 - Experienced in collaborating with cross-functional teams to troubleshoot issues and ensure reliable data flow in production applications.
 - I take ownership of features from implementation and integration to production releases and Google Play Store deployment.
 
- 
-### 🌐 Developer Portfolio
-
-Explore my projects, production applications, technical experience, and development work.
 
 **[Visit My Portfolio →](https://imthiyasalam.vercel.app)**
 
